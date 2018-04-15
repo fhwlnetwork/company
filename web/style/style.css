@@ -1,0 +1,32 @@
+.goods_show{
+	background: none;
+	width: 340px;
+	height: 250px;
+	float: left;
+	margin-right:20px;
+	 margin-left:10px;
+	padding-top: 10px;
+}
+
+.img_show{
+	background: green;
+	width: 340px;
+	height: 200px;
+	float:left;
+}
+
+.goods_name{
+	width: 30px;
+	height: 20px;
+	float:left;
+	text-align: center;
+	display:black; 
+}
+
+.goods_price{
+	width: 30px;
+	height: 20px;
+	float:left;
+	text-align: center;
+	display:black; 
+}
